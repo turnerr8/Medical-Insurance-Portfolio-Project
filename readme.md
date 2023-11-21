@@ -13,3 +13,9 @@ However, you are now tasked with working with the actual information in the data
 - Use libraries to assist in your analysis
 - Optional: Document and organize your findings
 - Optional: Make predictions about a dataset’s features based on your findings
+
+## Analyzing
+1. [x] average age of patients in dataset
+2. [x] where majority of individuals are from
+3. [x] different cost between smokers and non smokers
+4. [ ] avg age of someone who has at least one child
